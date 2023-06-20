@@ -1,0 +1,27 @@
+{
+  "name": "linters-starter",
+  "version": "1.0.0",
+  "description": "This is HTML, CSS and JavaScript Linters starter and will help you to not wasting your time for linters configuration. You can easily clone this repository and start your projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akbarsazish/Linters-Starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akbarsazish/Linters-Starter/issues"
+  },
+  "homepage": "https://github.com/akbarsazish/Linters-Starter#readme",
+  "devDependencies": {
+    "hint": "^7.1.9",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
